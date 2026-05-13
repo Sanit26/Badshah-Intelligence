@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+
+# Motoko / ICP build artifacts
+.mops/
+.old/
+.platform/
+.cache/
+*.wasm
+
+# Environment files — NEVER commit these
+.env
+.env.local
+.env.*.local
+src/frontend/env.json
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

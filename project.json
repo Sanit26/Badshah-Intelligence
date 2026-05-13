@@ -1,0 +1,26 @@
+{
+  "overview": "Badshah Intelligence (BI) is a premium AI-powered business analytics SaaS with a royal Genie personality. Upload CSV or PDF data files and instantly get AI-generated dashboards, KPI insights, and interactive data analysis. Ask the Genie questions about your data in natural language with streaming responses. Features an Ocean Dark glassmorphism design with Hinglish genie greetings.",
+  "features": [
+    "Data Upload page with CSV/PDF drag-and-drop",
+    "AI-generated dynamic dashboards from uploaded data",
+    "Data Analysis workspace with auto-generated charts",
+    "Natural language questions to the Genie about your data",
+    "Per-user data persistence across logout/login",
+    "Streaming AI responses with Hinglish genie personality",
+    "Ocean Dark glassmorphism design system",
+    "Internet Identity authentication",
+    "Voice output in English and Hindi"
+  ],
+  "category": "analytics",
+  "tags": [
+    "analytics",
+    "business-intelligence",
+    "ai",
+    "data-upload",
+    "dashboard",
+    "genie",
+    "openrouter",
+    "glassmorphism"
+  ],
+  "last_updated": "2026-05-11T12:02:22.587Z"
+}
